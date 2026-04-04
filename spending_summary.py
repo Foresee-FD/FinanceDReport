@@ -175,7 +175,7 @@ def build_setup_message(balance: dict) -> str:
 
 
 def build_message(today_txns: list, weekly_total: float, balance: dict) -> str:
-    divider = "─" * 24
+    divider = "─" * 12
     lines = [f"{CARD_NAME} Daily Spending", divider]
 
     daily_total = 0.0
@@ -184,7 +184,7 @@ def build_message(today_txns: list, weekly_total: float, balance: dict) -> str:
             amt         = t["amount"]
             daily_total += amt
             merchant    = truncate(t.get("merchant_name") or t.get("name") or "Unknown")
-            pending_tag = " ⏳" if t.get("pending") else ""
+            pending_tag = " ⏲" if t.get("pending") else ""
             lines.append(f"${amt:>7.2f}  {merchant}{pending_tag}")
     else:
         lines.append("  No new transactions today")

@@ -147,14 +147,14 @@ def truncate(name: str, length: int = 26) -> str:
 
 
 def build_setup_message(balance: dict) -> str:
-    divider = "─" * 24
+    divider = "─" * 12
     current   = balance.get("current")
     available = balance.get("available")
     limit     = balance.get("limit")
 
     lines = [
-        f"✅ {CARD_NAME} Spending Tracker",
-        "is up and running!",
+        f"{CARD_NAME} Spending Tracker",
+        "is up and running",
         divider,
         "You'll get a text every night",
         "at 10pm with your daily spend",
@@ -170,7 +170,7 @@ def build_setup_message(balance: dict) -> str:
         lines.append(f"  Limit:     ${limit:.2f}")
     lines.append(divider)
     lines.append("Your first daily summary")
-    lines.append("follows right after this. 👇")
+    lines.append("follows right after this.")
     return "\n".join(lines)
 
 
@@ -187,7 +187,7 @@ def build_message(today_txns: list, weekly_total: float, balance: dict) -> str:
             pending_tag = " ⏳" if t.get("pending") else ""
             lines.append(f"${amt:>7.2f}  {merchant}{pending_tag}")
     else:
-        lines.append("  No new transactions today 🎉")
+        lines.append("  No new transactions today")
 
     remaining = WEEKLY_BUDGET - weekly_total
     pct_used  = min((weekly_total / WEEKLY_BUDGET) * 100, 100) if WEEKLY_BUDGET else 0

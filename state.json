@@ -1,7 +1,7 @@
 {
-  "cursor": "CAESJW95NUQ4Wjk3RTBGTnZPWEJ6WEs2aTBrNE9KMUs1WGZkUXI5OXkaCwjM9MXOBhDAkbdGIgsIzPTFzgYQwJG3RioLCMz0xc4GEMCRt0Y=",
+  "cursor": "CAESJWFaNGJWUEVkeHJIZG9OUjBlenZOdTZLdlkxVnJrMUlLeDhtSnAaDAjgp8fOBhDIyeWWASIMCOCnx84GEMjJ5ZYBKgwI4KfHzgYQyMnllgE=",
   "week_start": "2026-04-03",
-  "weekly_total": 39.38,
+  "weekly_total": 54.18,
   "setup_done": true,
   "seen": {
     "quiktrip|41.17|2026-03-05": {
@@ -1197,6 +1197,11 @@
     "abelardosmexicanfresh|29.54|2026-03-02": {
       "first_seen": "2026-04-04",
       "amount": 29.54,
+      "merchant": "Abelardo's Mexican Fresh"
+    },
+    "abelardosmexicanfresh|14.80|2026-04-04": {
+      "first_seen": "2026-04-05",
+      "amount": 14.8,
       "merchant": "Abelardo's Mexican Fresh"
     }
   }

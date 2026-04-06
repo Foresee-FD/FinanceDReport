@@ -1,7 +1,7 @@
 {
-  "cursor": "CAESJWFaNGJWUEVkeHJIZG9OUjBlenZOdTZLdlkxVnJrMUlLeDhtSnAaDAjgp8fOBhDIyeWWASIMCOCnx84GEMjJ5ZYBKgwI4KfHzgYQyMnllgE=",
+  "cursor": "CAESJWtQN3dMckV5VlJISk56ZVZnYWJwaXBhcTdkckpZS0ZFYmplZ3IaDAiHy8zOBhCgjNTrAiIMCIfLzM4GEKCM1OsCKgwIh8vMzgYQoIzU6wI=",
   "week_start": "2026-04-03",
-  "weekly_total": 54.18,
+  "weekly_total": 74.13,
   "setup_done": true,
   "seen": {
     "quiktrip|41.17|2026-03-05": {
@@ -1203,6 +1203,21 @@
       "first_seen": "2026-04-05",
       "amount": 14.8,
       "merchant": "Abelardo's Mexican Fresh"
+    },
+    "quiktrip|1.52|2026-04-04": {
+      "first_seen": "2026-04-06",
+      "amount": 1.52,
+      "merchant": "QuikTrip"
+    },
+    "tacobell|6.45|2026-04-04": {
+      "first_seen": "2026-04-06",
+      "amount": 6.45,
+      "merchant": "Taco Bell"
+    },
+    "walmart|11.98|2026-04-04": {
+      "first_seen": "2026-04-06",
+      "amount": 11.98,
+      "merchant": "Walmart"
     }
   }
 }

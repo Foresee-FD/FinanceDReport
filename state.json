@@ -1,0 +1,33 @@
+{
+  "last_pull_date": "2026-04-09",
+  "week_start": "2026-04-03",
+  "weekly_total": 54.44,
+  "setup_done": true,
+  "seen": {
+    "amazon|2.34|2026-04-07": {
+      "first_seen": "2026-04-09",
+      "amount": 2.34,
+      "merchant": "Amazon"
+    },
+    "amazon|9.99|2026-04-07": {
+      "first_seen": "2026-04-09",
+      "amount": 9.99,
+      "merchant": "Amazon"
+    },
+    "raisingcaneschickenfingers|19.47|2026-04-07": {
+      "first_seen": "2026-04-09",
+      "amount": 19.47,
+      "merchant": "Raising Cane's Chicken Fingers"
+    },
+    "arbys|16.21|2026-04-07": {
+      "first_seen": "2026-04-09",
+      "amount": 16.21,
+      "merchant": "Arby's"
+    },
+    "walmart|6.43|2026-04-07": {
+      "first_seen": "2026-04-09",
+      "amount": 6.43,
+      "merchant": "Walmart"
+    }
+  }
+}

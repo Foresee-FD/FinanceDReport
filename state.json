@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-11",
+  "last_pull_date": "2026-04-12",
   "week_start": "2026-04-10",
-  "weekly_total": 16.04,
+  "weekly_total": 19.03,
   "setup_done": true,
   "seen": {
     "amazon|2.34|2026-04-07": {
@@ -23,6 +23,11 @@
       "first_seen": "2026-04-11",
       "amount": 16.04,
       "merchant": "Amazon Prime"
+    },
+    "apple|2.99|2026-04-10": {
+      "first_seen": "2026-04-12",
+      "amount": 2.99,
+      "merchant": "Apple"
     }
   }
 }

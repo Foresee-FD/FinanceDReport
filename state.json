@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-13",
+  "last_pull_date": "2026-04-14",
   "week_start": "2026-04-10",
-  "weekly_total": 110.24,
+  "weekly_total": 168.76,
   "setup_done": true,
   "seen": {
     "amazon|2.34|2026-04-07": {
@@ -43,6 +43,16 @@
       "first_seen": "2026-04-13",
       "amount": 23.34,
       "merchant": "McDonald's"
+    },
+    "greenlandgrocery|15.08|2026-04-13": {
+      "first_seen": "2026-04-14",
+      "amount": 15.08,
+      "merchant": "Green Land Grocery"
+    },
+    "replit|43.44|2026-04-13": {
+      "first_seen": "2026-04-14",
+      "amount": 43.44,
+      "merchant": "Replit"
     }
   }
 }

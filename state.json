@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-14",
+  "last_pull_date": "2026-04-15",
   "week_start": "2026-04-10",
-  "weekly_total": 168.76,
+  "weekly_total": 203.08,
   "setup_done": true,
   "seen": {
     "amazon|2.34|2026-04-07": {
@@ -53,6 +53,26 @@
       "first_seen": "2026-04-14",
       "amount": 43.44,
       "merchant": "Replit"
+    },
+    "aksarbencinema|5.44|2026-04-13": {
+      "first_seen": "2026-04-15",
+      "amount": 5.44,
+      "merchant": "Aksarben Cinema"
+    },
+    "mainstreettheatres|19.72|2026-04-13": {
+      "first_seen": "2026-04-15",
+      "amount": 19.72,
+      "merchant": "Main Street Theatres"
+    },
+    "resumeco|1.95|2026-04-13": {
+      "first_seen": "2026-04-15",
+      "amount": 1.95,
+      "merchant": "Resumeco"
+    },
+    "tacobell|7.21|2026-04-13": {
+      "first_seen": "2026-04-15",
+      "amount": 7.21,
+      "merchant": "Taco Bell"
     }
   }
 }

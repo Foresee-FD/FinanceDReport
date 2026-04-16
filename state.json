@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-15",
+  "last_pull_date": "2026-04-16",
   "week_start": "2026-04-10",
-  "weekly_total": 203.08,
+  "weekly_total": 300.04,
   "setup_done": true,
   "seen": {
     "amazon|2.34|2026-04-07": {
@@ -73,6 +73,21 @@
       "first_seen": "2026-04-15",
       "amount": 7.21,
       "merchant": "Taco Bell"
+    },
+    "arbys|12.24|2026-04-13": {
+      "first_seen": "2026-04-16",
+      "amount": 12.24,
+      "merchant": "Arby's"
+    },
+    "culvers|64.72|2026-04-13": {
+      "first_seen": "2026-04-16",
+      "amount": 64.72,
+      "merchant": "Culver's"
+    },
+    "twilio|20.00|2026-04-13": {
+      "first_seen": "2026-04-16",
+      "amount": 20.0,
+      "merchant": "Twilio"
     }
   }
 }

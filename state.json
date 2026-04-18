@@ -1,7 +1,23 @@
 {
-  "last_pull_date": "2026-04-17",
+  "last_pull_date": "2026-04-18",
   "week_start": "2026-04-17",
-  "weekly_total": 0.0,
+  "weekly_total": 91.6,
   "setup_done": true,
-  "seen": {}
+  "seen": {
+    "doordash|70.89|2026-04-16": {
+      "first_seen": "2026-04-18",
+      "amount": 70.89,
+      "merchant": "DoorDash"
+    },
+    "amazon|9.50|2026-04-16": {
+      "first_seen": "2026-04-18",
+      "amount": 9.5,
+      "merchant": "Amazon"
+    },
+    "amazon|11.21|2026-04-16": {
+      "first_seen": "2026-04-18",
+      "amount": 11.21,
+      "merchant": "Amazon"
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-19",
+  "last_pull_date": "2026-04-20",
   "week_start": "2026-04-17",
-  "weekly_total": 145.36,
+  "weekly_total": 177.0,
   "setup_done": true,
   "seen": {
     "doordash|70.89|2026-04-16": {
@@ -33,6 +33,16 @@
       "first_seen": "2026-04-19",
       "amount": 12.89,
       "merchant": "Taco Bell"
+    },
+    "walmart|16.87|2026-04-19": {
+      "first_seen": "2026-04-20",
+      "amount": 16.87,
+      "merchant": "Walmart"
+    },
+    "abelardosmexicanfresh|14.77|2026-04-19": {
+      "first_seen": "2026-04-20",
+      "amount": 14.77,
+      "merchant": "Abelardo's Mexican Fresh"
     }
   }
 }

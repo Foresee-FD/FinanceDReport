@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-20",
+  "last_pull_date": "2026-04-21",
   "week_start": "2026-04-17",
-  "weekly_total": 177.0,
+  "weekly_total": 201.76,
   "setup_done": true,
   "seen": {
     "doordash|70.89|2026-04-16": {
@@ -43,6 +43,16 @@
       "first_seen": "2026-04-20",
       "amount": 14.77,
       "merchant": "Abelardo's Mexican Fresh"
+    },
+    "familyfare|17.98|2026-04-19": {
+      "first_seen": "2026-04-21",
+      "amount": 17.98,
+      "merchant": "Family Fare"
+    },
+    "walmart|6.78|2026-04-19": {
+      "first_seen": "2026-04-21",
+      "amount": 6.78,
+      "merchant": "Walmart"
     }
   }
 }

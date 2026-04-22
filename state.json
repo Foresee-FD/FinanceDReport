@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-21",
+  "last_pull_date": "2026-04-22",
   "week_start": "2026-04-17",
-  "weekly_total": 201.76,
+  "weekly_total": 725.42,
   "setup_done": true,
   "seen": {
     "doordash|70.89|2026-04-16": {
@@ -53,6 +53,11 @@
       "first_seen": "2026-04-21",
       "amount": 6.78,
       "merchant": "Walmart"
+    },
+    "americanairlines|523.66|2026-04-22": {
+      "first_seen": "2026-04-22",
+      "amount": 523.66,
+      "merchant": "American Airlines"
     }
   }
 }

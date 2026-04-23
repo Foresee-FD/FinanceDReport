@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-22",
+  "last_pull_date": "2026-04-23",
   "week_start": "2026-04-17",
-  "weekly_total": 725.42,
+  "weekly_total": 804.5,
   "setup_done": true,
   "seen": {
     "doordash|70.89|2026-04-16": {
@@ -58,6 +58,31 @@
       "first_seen": "2026-04-22",
       "amount": 523.66,
       "merchant": "American Airlines"
+    },
+    "amazon|7.48|2026-04-22": {
+      "first_seen": "2026-04-23",
+      "amount": 7.48,
+      "merchant": "Amazon"
+    },
+    "maverik|20.00|2026-04-22": {
+      "first_seen": "2026-04-23",
+      "amount": 20.0,
+      "merchant": "Maverik"
+    },
+    "raisingcaneschickenfingers|11.37|2026-04-22": {
+      "first_seen": "2026-04-23",
+      "amount": 11.37,
+      "merchant": "Raising Cane's Chicken Fingers"
+    },
+    "tiktok|25.99|2026-04-22": {
+      "first_seen": "2026-04-23",
+      "amount": 25.99,
+      "merchant": "Tiktok"
+    },
+    "wingstop|14.24|2026-04-22": {
+      "first_seen": "2026-04-23",
+      "amount": 14.24,
+      "merchant": "Wingstop"
     }
   }
 }

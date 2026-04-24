@@ -1,88 +1,23 @@
 {
-  "last_pull_date": "2026-04-23",
-  "week_start": "2026-04-17",
-  "weekly_total": 804.5,
+  "last_pull_date": "2026-04-24",
+  "week_start": "2026-04-24",
+  "weekly_total": 0.0,
   "setup_done": true,
   "seen": {
-    "doordash|70.89|2026-04-16": {
-      "first_seen": "2026-04-18",
-      "amount": 70.89,
-      "merchant": "DoorDash"
-    },
-    "amazon|9.50|2026-04-16": {
-      "first_seen": "2026-04-18",
-      "amount": 9.5,
+    "amazon|5.68|2026-04-22": {
+      "first_seen": "2026-04-24",
+      "amount": 5.68,
       "merchant": "Amazon"
     },
-    "amazon|11.21|2026-04-16": {
-      "first_seen": "2026-04-18",
-      "amount": 11.21,
-      "merchant": "Amazon"
+    "quiktrip|12.15|2026-04-22": {
+      "first_seen": "2026-04-24",
+      "amount": 12.15,
+      "merchant": "QuikTrip"
     },
-    "usconnect|2.59|2026-04-19": {
-      "first_seen": "2026-04-19",
-      "amount": 2.59,
-      "merchant": "USConnect"
-    },
-    "amoco|38.28|2026-04-16": {
-      "first_seen": "2026-04-19",
-      "amount": 38.28,
-      "merchant": "Amoco"
-    },
-    "tacobell|12.89|2026-04-16": {
-      "first_seen": "2026-04-19",
-      "amount": 12.89,
-      "merchant": "Taco Bell"
-    },
-    "walmart|16.87|2026-04-19": {
-      "first_seen": "2026-04-20",
-      "amount": 16.87,
-      "merchant": "Walmart"
-    },
-    "abelardosmexicanfresh|14.77|2026-04-19": {
-      "first_seen": "2026-04-20",
-      "amount": 14.77,
-      "merchant": "Abelardo's Mexican Fresh"
-    },
-    "familyfare|17.98|2026-04-19": {
-      "first_seen": "2026-04-21",
-      "amount": 17.98,
-      "merchant": "Family Fare"
-    },
-    "walmart|6.78|2026-04-19": {
-      "first_seen": "2026-04-21",
-      "amount": 6.78,
-      "merchant": "Walmart"
-    },
-    "americanairlines|523.66|2026-04-22": {
-      "first_seen": "2026-04-22",
-      "amount": 523.66,
-      "merchant": "American Airlines"
-    },
-    "amazon|7.48|2026-04-22": {
-      "first_seen": "2026-04-23",
-      "amount": 7.48,
-      "merchant": "Amazon"
-    },
-    "maverik|20.00|2026-04-22": {
-      "first_seen": "2026-04-23",
-      "amount": 20.0,
-      "merchant": "Maverik"
-    },
-    "raisingcaneschickenfingers|11.37|2026-04-22": {
-      "first_seen": "2026-04-23",
-      "amount": 11.37,
-      "merchant": "Raising Cane's Chicken Fingers"
-    },
-    "tiktok|25.99|2026-04-22": {
-      "first_seen": "2026-04-23",
-      "amount": 25.99,
-      "merchant": "Tiktok"
-    },
-    "wingstop|14.24|2026-04-22": {
-      "first_seen": "2026-04-23",
-      "amount": 14.24,
-      "merchant": "Wingstop"
+    "quantumfiber|60.00|2026-04-22": {
+      "first_seen": "2026-04-24",
+      "amount": 60.0,
+      "merchant": "Quantum Fiber"
     }
   }
 }

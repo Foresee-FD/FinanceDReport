@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-25",
+  "last_pull_date": "2026-04-26",
   "week_start": "2026-04-24",
-  "weekly_total": 62.13,
+  "weekly_total": 119.9,
   "setup_done": true,
   "seen": {
     "amazon|5.68|2026-04-22": {
@@ -33,6 +33,16 @@
       "first_seen": "2026-04-25",
       "amount": 35.03,
       "merchant": "Maverik"
+    },
+    "amazonkindle|12.83|2026-04-25": {
+      "first_seen": "2026-04-26",
+      "amount": 12.83,
+      "merchant": "Amazon Kindle"
+    },
+    "target|44.94|2026-04-25": {
+      "first_seen": "2026-04-26",
+      "amount": 44.94,
+      "merchant": "Target"
     }
   }
 }

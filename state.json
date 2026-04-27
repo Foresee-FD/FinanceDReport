@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-26",
+  "last_pull_date": "2026-04-27",
   "week_start": "2026-04-24",
-  "weekly_total": 119.9,
+  "weekly_total": 195.51,
   "setup_done": true,
   "seen": {
     "amazon|5.68|2026-04-22": {
@@ -43,6 +43,16 @@
       "first_seen": "2026-04-26",
       "amount": 44.94,
       "merchant": "Target"
+    },
+    "megasaver|10.84|2026-04-25": {
+      "first_seen": "2026-04-27",
+      "amount": 10.84,
+      "merchant": "Mega Saver"
+    },
+    "tiktok|64.77|2026-04-25": {
+      "first_seen": "2026-04-27",
+      "amount": 64.77,
+      "merchant": "Tiktok"
     }
   }
 }

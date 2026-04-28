@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-27",
+  "last_pull_date": "2026-04-28",
   "week_start": "2026-04-24",
-  "weekly_total": 195.51,
+  "weekly_total": 406.19,
   "setup_done": true,
   "seen": {
     "amazon|5.68|2026-04-22": {
@@ -53,6 +53,36 @@
       "first_seen": "2026-04-27",
       "amount": 64.77,
       "merchant": "Tiktok"
+    },
+    "amoco|44.56|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 44.56,
+      "merchant": "Amoco"
+    },
+    "apple|22.45|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 22.45,
+      "merchant": "Apple"
+    },
+    "culvers|24.22|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 24.22,
+      "merchant": "Culver's"
+    },
+    "omahapublicpowerdistrict|81.76|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 81.76,
+      "merchant": "Omaha Public Power District"
+    },
+    "raisingcaneschickenfingers|26.71|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 26.71,
+      "merchant": "Raising Cane's Chicken Fingers"
+    },
+    "walmart|10.98|2026-04-25": {
+      "first_seen": "2026-04-28",
+      "amount": 10.98,
+      "merchant": "Walmart"
     }
   }
 }

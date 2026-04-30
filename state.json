@@ -1,7 +1,7 @@
 {
-  "last_pull_date": "2026-04-29",
+  "last_pull_date": "2026-04-30",
   "week_start": "2026-04-24",
-  "weekly_total": 423.87,
+  "weekly_total": 655.82,
   "setup_done": true,
   "seen": {
     "amazon|5.68|2026-04-22": {
@@ -93,6 +93,16 @@
       "first_seen": "2026-04-29",
       "amount": 12.68,
       "merchant": "Taco Bell"
+    },
+    "amazon|27.80|2026-04-28": {
+      "first_seen": "2026-04-30",
+      "amount": 27.8,
+      "merchant": "Amazon"
+    },
+    "dmvplaterenw|204.15|2026-04-28": {
+      "first_seen": "2026-04-30",
+      "amount": 204.15,
+      "merchant": "Dmv Plate Renw"
     }
   }
 }

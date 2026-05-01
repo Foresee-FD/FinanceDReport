@@ -1,108 +1,13 @@
 {
-  "last_pull_date": "2026-04-30",
-  "week_start": "2026-04-24",
-  "weekly_total": 655.82,
+  "last_pull_date": "2026-05-01",
+  "week_start": "2026-05-01",
+  "weekly_total": 0.0,
   "setup_done": true,
   "seen": {
-    "amazon|5.68|2026-04-22": {
-      "first_seen": "2026-04-24",
-      "amount": 5.68,
-      "merchant": "Amazon"
-    },
-    "quiktrip|12.15|2026-04-22": {
-      "first_seen": "2026-04-24",
-      "amount": 12.15,
-      "merchant": "QuikTrip"
-    },
-    "quantumfiber|60.00|2026-04-22": {
-      "first_seen": "2026-04-24",
-      "amount": 60.0,
-      "merchant": "Quantum Fiber"
-    },
-    "audible|16.00|2026-04-22": {
-      "first_seen": "2026-04-25",
-      "amount": 16.0,
-      "merchant": "Audible"
-    },
-    "culvers|11.10|2026-04-22": {
-      "first_seen": "2026-04-25",
-      "amount": 11.1,
-      "merchant": "Culver's"
-    },
-    "maverik|35.03|2026-04-22": {
-      "first_seen": "2026-04-25",
-      "amount": 35.03,
-      "merchant": "Maverik"
-    },
-    "amazonkindle|12.83|2026-04-25": {
-      "first_seen": "2026-04-26",
-      "amount": 12.83,
-      "merchant": "Amazon Kindle"
-    },
-    "target|44.94|2026-04-25": {
-      "first_seen": "2026-04-26",
-      "amount": 44.94,
-      "merchant": "Target"
-    },
-    "megasaver|10.84|2026-04-25": {
-      "first_seen": "2026-04-27",
-      "amount": 10.84,
-      "merchant": "Mega Saver"
-    },
-    "tiktok|64.77|2026-04-25": {
-      "first_seen": "2026-04-27",
-      "amount": 64.77,
-      "merchant": "Tiktok"
-    },
-    "amoco|44.56|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 44.56,
-      "merchant": "Amoco"
-    },
-    "apple|22.45|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 22.45,
-      "merchant": "Apple"
-    },
-    "culvers|24.22|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 24.22,
-      "merchant": "Culver's"
-    },
-    "omahapublicpowerdistrict|81.76|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 81.76,
-      "merchant": "Omaha Public Power District"
-    },
-    "raisingcaneschickenfingers|26.71|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 26.71,
-      "merchant": "Raising Cane's Chicken Fingers"
-    },
-    "walmart|10.98|2026-04-25": {
-      "first_seen": "2026-04-28",
-      "amount": 10.98,
-      "merchant": "Walmart"
-    },
-    "openai|5.00|2026-04-28": {
-      "first_seen": "2026-04-29",
-      "amount": 5.0,
-      "merchant": "OpenAI"
-    },
-    "tacobell|12.68|2026-04-28": {
-      "first_seen": "2026-04-29",
-      "amount": 12.68,
-      "merchant": "Taco Bell"
-    },
-    "amazon|27.80|2026-04-28": {
-      "first_seen": "2026-04-30",
-      "amount": 27.8,
-      "merchant": "Amazon"
-    },
-    "dmvplaterenw|204.15|2026-04-28": {
-      "first_seen": "2026-04-30",
-      "amount": 204.15,
-      "merchant": "Dmv Plate Renw"
+    "mcdonalds|10.97|2026-04-28": {
+      "first_seen": "2026-05-01",
+      "amount": 10.97,
+      "merchant": "McDonald's"
     }
   }
 }
